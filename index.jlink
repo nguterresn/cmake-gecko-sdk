@@ -1,0 +1,3 @@
+loadfile "build/Debug/cmake-gecko-sdk.bin"
+r
+exit
